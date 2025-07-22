@@ -1,0 +1,33 @@
+📝 Report – Java Skills Assessment
+I completed all the tasks in the Java Skills Assessment. Here's a summary of what I did and what I found difficult:
+
+✅ What I Did
+I set up the folder structure and initialized a Git repo with the required files.
+
+For Task 2, I created classes like UserInfo and PayrollCalculator. The payroll logic had a lot of conditions, so I had to use switch cases and nested ifs.
+
+In Task 3, I worked with arrays and strings. I reversed student names, gave them letter grades, and processed some basic text. It was not that hard.
+
+Task 4 was about object-oriented programming. I built the Book and Textbook classes and worked with inheritance. I also tried static vs non-static stuff in the VisitorCounter class.
+
+In Task 5, I made discount calculators and pattern generators using loops and conditions.
+
+❗Where I Found It Difficult
+In the PayrollCalculator, it took me some time to think about how to handle the different employee types correctly using switch.
+
+Creating the method for tax deduction with multiple brackets and subtracting health insurance was a bit confusing at first.
+
+In the OOP section, I had to carefully think about how super() works when calling parent class methods.
+
+For reverseStudentNames, I had to use a nested loop to reverse each string which wasn’t immediately clear.
+
+➗ Difficulties with Math Problems
+In the shopping cart and discount logic, the math wasn’t hard but I had to be careful with percentage discounts and how they’re applied after adding up the total.
+
+Finding the most expensive item using loops needed extra thought because I had to track the highest number.
+
+Also, in the pattern printing task, I had to test different loop setups to make the triangle look right. The logic was easy but making it print exactly the way I wanted took some adjustments.
+
+🔚 Final Thoughts
+Most of the difficulties came from thinking through logic carefully, especially when using loops, conditions, and inheritance. It helped me understand Java more practically. I still want to get faster at solving problems, especially when calculations are involved or when structuring larger classes.
+
